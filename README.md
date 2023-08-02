@@ -15,9 +15,10 @@
 
 🤔 I’m looking for help with building out my GitHub.
 
-## Socials
+## How to contact me...
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hrfowler/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hrfowler/) 
+
 
 <!--
 **hannahrfowler/hannahrfowler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
