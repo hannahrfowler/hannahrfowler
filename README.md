@@ -2,6 +2,8 @@
 
 ### 🙋🏽‍♀️ I'm Hannah Fowler.
 
+I recently graduated with a double major in Computer Science and Musical Studies with a minor in African American Music.
+
 😄 Pronouns: (she/her)
 
 ⚡ Fun fact: I took an immersive trip to The Gambia and Senegal, where I studied West African drumming and dance for two weeks.
