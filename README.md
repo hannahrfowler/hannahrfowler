@@ -11,8 +11,6 @@ I recently graduated with a double major in Computer Science and Musical Studies
 
 ## Currently I'm working on... 🕹️
 
-🔭 I’m currently working on a web game built only with HTML, CSS, and Vanilla Javascript.
-
 🌱 I’m currently improving my skills as a full-stack web developer.
 
 🤔 I’m looking for help with building out my GitHub.
@@ -29,3 +27,13 @@ I recently graduated with a double major in Computer Science and Musical Studies
 ## Tools
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,python,java,vscode,git)](https://skillicons.dev)
+
+---
+
+### :fire: My Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hannahrfowler&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+
+
