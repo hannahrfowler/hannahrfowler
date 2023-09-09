@@ -8,7 +8,7 @@ I recently graduated with a double major in Computer Science and Musical Studies
 
 ⚡ Fun fact: I took an immersive trip to The Gambia and Senegal, where I studied West African drumming and dance for two weeks.
 
-🌱 I’m currently improving my skills as a full-stack web developer.
+🌱 I’m currently learning AWS and the Botpress API.
 
 🤔 I’m looking for help with building out my GitHub.
 
