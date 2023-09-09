@@ -9,7 +9,7 @@ I recently graduated with a double major in Computer Science and Musical Studies
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Software Engineer at [SmartWiz](https://smartwiz.io/)
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> Fun fact: I took an immersive trip to The Gambia and Senegal, 
-<br> where I studied West African drumming and dance for two weeks.
+<br> &nbsp; &nbsp; &nbsp;  where I studied West African drumming and dance for two weeks.
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Medium%20Skin%20Tone.png" alt="Technologist Medium Skin Tone" width="25" height="25" /> I’m currently learning AWS and the Botpress API.
 
