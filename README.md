@@ -15,7 +15,7 @@ I recently graduated with a double major in Computer Science and Musical Studies
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" /> I’m looking for help with building out my GitHub.
 
-## Contact me ➡️  [LinkedIn](https://www.linkedin.com/in/hrfowler/) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium%20Skin%20Tone.png" alt="Writing Hand Medium Skin Tone" width="45" height="45" />
+## Contact me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Right%20Arrow.png" alt="Right Arrow" width="25" height="25" /> [LinkedIn](https://www.linkedin.com/in/hrfowler/) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium%20Skin%20Tone.png" alt="Writing Hand Medium Skin Tone" width="45" height="45" />
 
 
 <!--
