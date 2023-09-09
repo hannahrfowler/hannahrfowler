@@ -8,9 +8,6 @@ I recently graduated with a double major in Computer Science and Musical Studies
 
 ⚡ Fun fact: I took an immersive trip to The Gambia and Senegal, where I studied West African drumming and dance for two weeks.
 
-
-## Currently I'm working on... 🕹️
-
 🌱 I’m currently improving my skills as a full-stack web developer.
 
 🤔 I’m looking for help with building out my GitHub.
@@ -26,7 +23,7 @@ I recently graduated with a double major in Computer Science and Musical Studies
 
 ## Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,python,java,vscode,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,typescript,vite,python,java,vscode,git)](https://skillicons.dev)
 
 ---
 
