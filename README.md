@@ -6,6 +6,8 @@ I recently graduated with a double major in Computer Science and Musical Studies
 
 😄 Pronouns: (she/her)
 
+👩🏽‍💻 Software Engineer at [SmartWiz](https://smartwiz.io/)
+
 ⚡ Fun fact: I took an immersive trip to The Gambia and Senegal, where I studied West African drumming and dance for two weeks.
 
 🌱 I’m currently learning AWS and the Botpress API.
