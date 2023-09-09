@@ -4,15 +4,15 @@
 
 I recently graduated with a double major in Computer Science and Musical Studies with a minor in African American Music.
 
-😄 Pronouns: (she/her)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face.png" alt="Smiling Face" width="25" height="25" /> Pronouns: (she/her)
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Software Engineer at [SmartWiz](https://smartwiz.io/)
 
-⚡ Fun fact: I took an immersive trip to The Gambia and Senegal, where I studied West African drumming and dance for two weeks.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> Fun fact: I took an immersive trip to The Gambia and Senegal, where I studied West African drumming and dance for two weeks.
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Medium%20Skin%20Tone.png" alt="Technologist Medium Skin Tone" width="25" height="25" /> I’m currently learning AWS and the Botpress API.
 
-🤔 I’m looking for help with building out my GitHub.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" /> I’m looking for help with building out my GitHub.
 
 ## Contact me ➡️  [LinkedIn](https://www.linkedin.com/in/hrfowler/) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium%20Skin%20Tone.png" alt="Writing Hand Medium Skin Tone" width="45" height="45" />
 
