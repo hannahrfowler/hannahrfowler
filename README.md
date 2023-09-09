@@ -23,7 +23,7 @@ I recently graduated with a double major in Computer Science and Musical Studies
 
 ## Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,typescript,vite,python,java,vscode,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,typescript,vite,python,java,vscode,git)](https://skillicons.dev)
 
 ---
 
