@@ -14,7 +14,7 @@ I recently graduated with a double major in Computer Science and Musical Studies
 
 🤔 I’m looking for help with building out my GitHub.
 
-## Contact me ➡️  [LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)
+## Contact me ➡️  [LinkedIn](https://www.linkedin.com/in/hrfowler/)
 
 
 <!--
