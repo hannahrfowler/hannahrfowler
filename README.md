@@ -2,6 +2,8 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Woman%20Raising%20Hand%20Medium%20Skin%20Tone.png" alt="Woman Raising Hand Medium Skin Tone" width="35" height="35" /> I'm Hannah Fowler
 
+**`Software Engineer`** **`Full-stack`** **`Musician`** **`Loves to Learn`**
+
 I recently graduated with a double major in Computer Science and Musical Studies with a minor in African American Music.
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face.png" alt="Smiling Face" width="25" height="25" /> Pronouns: (she/her)
