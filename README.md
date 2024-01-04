@@ -26,7 +26,7 @@ I recently graduated with a double major in Computer Science and Musical Studies
 
 ## Tools <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40" height="40" />
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,nodejs,react,typescript,vite,python,java,vscode,git,aws,docker,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,nodejs,react,typescript,vite,python,django,java,vscode,git,aws,docker,postman)](https://skillicons.dev)
 
 ---
 
